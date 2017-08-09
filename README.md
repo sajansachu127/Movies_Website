@@ -1,1 +1,4 @@
-This is a simple my favorite movies website where you can watch those movies trailer. To open this website run entertainment_center.py in python-cmd
+This is a simple website build using python 
+It contains my favorite movie and i have given functionality to play its trailer
+To run my website in localhost 
+Open cmd prompt and type "python entertainment_center.py"
